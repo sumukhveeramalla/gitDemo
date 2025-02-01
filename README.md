@@ -16,3 +16,6 @@ git add <- file name ->
 
 commit - It is the record of change
 git commit -m "some message"
+
+push -upload local repo content to remote repo
+git push origin main
