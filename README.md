@@ -5,11 +5,13 @@ Hello Guys I am Learning
 </br>
 I will continue to learn.
 <br/>
+<br/>
 U - Untracked -> new files that git doesn't yet track
 <br />
 M - Modified -> changed
 <br/>
 S - Staged -> file is ready to be commited
+<br />
 <br />
 add - add new or changed files in your working directory to the Git staging area.
 <br/>
